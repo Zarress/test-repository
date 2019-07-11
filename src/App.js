@@ -13,6 +13,7 @@ class App extends Component {
     return (
       <div className="App">
         <h1>Back to React baby!</h1>
+        {console.log("comment")}
         {Object.values(imagesObj).map(imageSrc => {
           return (
             <img key={imageSrc} src={imageSrc} alt=""></img>
