@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Zarress/test-repository/static/css/main.677a9ed5.chunk.css",
+    "main.js": "/Zarress/test-repository/static/js/main.b5bea418.chunk.js",
+    "main.js.map": "/Zarress/test-repository/static/js/main.b5bea418.chunk.js.map",
+    "runtime~main.js": "/Zarress/test-repository/static/js/runtime~main.ef96da4e.js",
+    "runtime~main.js.map": "/Zarress/test-repository/static/js/runtime~main.ef96da4e.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/Zarress/test-repository/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/Zarress/test-repository/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/Zarress/test-repository/index.html",
+    "precache-manifest.faf6e3aa86dd5a4d2e593174efea44d8.js": "/Zarress/test-repository/precache-manifest.faf6e3aa86dd5a4d2e593174efea44d8.js",
+    "service-worker.js": "/Zarress/test-repository/service-worker.js",
+    "static/css/main.677a9ed5.chunk.css.map": "/Zarress/test-repository/static/css/main.677a9ed5.chunk.css.map",
+    "static/media/2.jpg": "/Zarress/test-repository/static/media/2.59db9ac0.jpg",
+    "static/media/20170917_132534.jpg": "/Zarress/test-repository/static/media/20170917_132534.6a4abb37.jpg",
+    "static/media/20181116_131124.jpg": "/Zarress/test-repository/static/media/20181116_131124.31155cfb.jpg",
+    "static/media/4.jpg": "/Zarress/test-repository/static/media/4.83738b19.jpg",
+    "static/media/6.jpg": "/Zarress/test-repository/static/media/6.981d6fbb.jpg",
+    "static/media/8.jpg": "/Zarress/test-repository/static/media/8.dc19ef82.jpg"
+  }
+}
